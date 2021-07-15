@@ -1,4 +1,4 @@
-from Calculator.Squared_root import squared_root
+from Calculator.squared_root import squared_root
 from StatCalculator.Variance import variance
 
 def standard_deviation(a, b, c, d, e):

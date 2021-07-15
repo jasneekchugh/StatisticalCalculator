@@ -1,10 +1,9 @@
-from Calculator.Subtraction import subtraction
 from Calculator.Addition import addition
-from Calculator.Multiplication import multiplication
+from Calculator.Subtraction import subtraction
 from Calculator.Division import division
+from Calculator.Multiplication import multiplication
 from Calculator.Squared import squared
-from Calculator.Squared_root import squared_root
-
+from Calculator.squared_root import root
 
 class Calculator:
     result = 0
@@ -20,18 +19,20 @@ class Calculator:
         self.result = subtraction(a, b)
         return self.result
 
-    def multiply(self, a, b):
-        self.result = multiplication(a, b)
+    def divide(self, a, b):
+        self.result = round(division(a, b), 7)
         return self.result
 
-    def divide(self, a, b):
-        self.result = division(a, b)
+    def multiply(self, a, b):
+        self.result = multiplication(a, b)
         return self.result
 
     def squared(self, a):
         self.result = squared(a)
         return self.result
 
-    def squared_root(self, a):
-        self.result = squared_root(a)
+    def Squared_root(self, a):
+        self.result = root(a)
         return self.result
+
+        pass

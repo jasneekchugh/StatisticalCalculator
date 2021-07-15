@@ -1,3 +1,3 @@
 def squared(a):
-    a = int(a)
-    return a * a
+    a = float(a)
+    return a ** 2
