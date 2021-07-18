@@ -27,3 +27,8 @@ Median
 Mode
 Variance
 Standard Deviation
+
+
+## Screenshots
+
+![Travis Screenshot] (Screenshots/Travis.png)
