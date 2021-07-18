@@ -31,4 +31,4 @@ Standard Deviation
 
 ## Screenshots
 
-![Travis Screenshot] (Screenshots/Travis.png)
+![Travis Screenshot](Screenshots/Travis.png)
