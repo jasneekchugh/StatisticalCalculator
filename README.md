@@ -16,17 +16,17 @@
 
 ## Random Generator function
 
-Generate a random number without a seed between a range of two numbers - Both Integer and Decimal
-Generate a random number with a seed between a range of two numbers - Both Integer and Decimal
-Generate a list of N random numbers with a seed and between a range of numbers - Both Integer and Decimal
+- Generate a random number without a seed between a range of two numbers - Both Integer and Decimal
+- Generate a random number with a seed between a range of two numbers - Both Integer and Decimal
+- Generate a list of N random numbers with a seed and between a range of numbers - Both Integer and Decimal
 
 ## Descriptive Statistics functions
 
-Mean
-Median
-Mode
-Variance
-Standard Deviation
+- Mean
+- Median
+- Mode
+- Variance
+- Standard Deviation
 
 
 ## Screenshots
